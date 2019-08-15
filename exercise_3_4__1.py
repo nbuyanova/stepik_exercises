@@ -27,6 +27,6 @@ while i < l and s1[i].isalpha():
         i += 1
     for j in range(k):
         s2 += c
-ouf = open('result.txt', 'w')
+ouf = open('dataresult_3363_2.txt', 'w')
 ouf.write(s2 + '\n')
 ouf.close()
