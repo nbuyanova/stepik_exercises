@@ -1,5 +1,4 @@
 venv/
 .idea/
-dataset_3363_2.txt
-dataresult_3363_2.txt
-dataset_3363_3.txt
+dataset*.txt
+dataresult*.txt
